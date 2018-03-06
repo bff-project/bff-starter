@@ -25,6 +25,6 @@
     "faker": "^3.0.1",
     "font-awesome": "^4.5.0",
     "handlebars": "^4.0.5",
-    "jquery": "^2.2.0"
+    "jquery": "^3.0.0"
   }
 }
