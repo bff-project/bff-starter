@@ -13,12 +13,15 @@ This is a barebones MVC framework. There are no models, controllers, routes, eve
 
 # Setup
 1. Install node.
-2. Download this project via the URL above.
-3. Or alternately, open a command prompt/Terminal and git clone this project:
+3. Open a command prompt/Terminal and git clone this project:
 ```
-git clone https://bitbucket.org/slalom-consulting/bff.git
+git clone https://github.com/bff-project/bff-starter.git
 ```
-3. Open a command prompt/Terminal to the bff subfolder and type:
+4. Install `grunt-cli` locally:
+```
+npm install grunt-cli --save-dev
+```
+5. Install dependencies (i.e. 3rd party libraries that BFF needs to work correctly):
 ```
 npm install
 ```
