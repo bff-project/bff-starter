@@ -28,7 +28,7 @@ npm install
 
 
 # Running the App
-1. Open a command prompt/Terminal to the bff subfolder and type:
+1. Type:
 ```
 grunt
 ```
