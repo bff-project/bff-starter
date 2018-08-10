@@ -71,7 +71,6 @@ module.exports = function(grunt) {
                 'node_modules/jquery/dist/jquery.js',
                 'node_modules/bootstrap-sass/assets/javascripts/bootstrap.js',
                 'node_modules/handlebars/dist/handlebars.js',
-                'node_modules/faker/build/build/faker.js',
                 'node_modules/font-awesome/css/font-awesome.css',
                 'node_modules/font-awesome/fonts/**',
               ],
