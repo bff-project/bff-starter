@@ -13,6 +13,7 @@
     "grunt-contrib-connect": "*",
     "grunt-contrib-copy": "*",
     "grunt-contrib-watch": "*",
+    "node-sass": "*",
     "grunt-sass": "*",
     "grunt-shell": "*",
     "matchdep": "*",
