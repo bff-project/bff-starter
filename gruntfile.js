@@ -2,6 +2,7 @@ module.exports = function(grunt) {
   'use strict';
 
   require('matchdep').filterDev('grunt-*').forEach(grunt.loadNpmTasks);
+  const sass = require('node-sass');
 
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
@@ -18,6 +19,7 @@ module.exports = function(grunt) {
 
     sass: {
       options: {
+        implementation: sass,
         sourceMap: true
       },
       dist: {
